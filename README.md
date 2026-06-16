@@ -12,7 +12,7 @@ Angular · Kotlin · Swift · TypeScript · Java · BBDD · API Rest · AI-Assis
 
 ---
 
-**Open to work** · Frontend Angular / Mobile Android
+**Open to work** · Frontend Angular / Mobile Android & iOS
 
 ---
 
