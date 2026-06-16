@@ -7,7 +7,7 @@ Angular · Kotlin · Swift · TypeScript · Java · BBDD · API Rest · AI-Assis
 ## Built in production
 
 - **NixNexo** — Arquitectura frontend Angular 21 en producción: Signals, Standalone Components, Stripe y coordinación cross-team (backend, ciberseguridad, diseño).
-- **GameVision** — Red social de videojuegos Android nativo. Kotlin Compose, MVVM + Clean Architecture. Calificación: 9/10. → [GameVisionTFM](https://github.com/AlejandroEscapa/GameVisionTFM)
+- **GameVision** — Red social de videojuegos Android nativo. Kotlin, MVVM + Clean Architecture. Calificación: 9/10. → [GameVisionTFM](https://github.com/AlejandroEscapa/GameVisionTFM)
 - **MatchVision** — Seguimiento de fútbol en vivo iOS nativo. Swift, SwiftUI, MVVM, Firebase. Calificación: 9/10. → [MatchVisionTFM](https://github.com/AlejandroEscapa/MatchVisionTFM)
 
 ---
