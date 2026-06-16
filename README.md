@@ -1,16 +1,19 @@
-## Hi there 👋
+Frontend Angular Developer | Android & iOS Native
 
-<!--
-**AlejandroEscapa/AlejandroEscapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Angular · Kotlin · Swift · TypeScript · Supabase
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Built in production
+
+- **NixNexo** — Arquitectura frontend Angular 21 en producción: Signals, Standalone Components, Stripe y coordinación cross-team (backend, ciberseguridad, diseño).
+- **GameVision** — Red social de videojuegos Android nativo. Kotlin Compose, MVVM + Clean Architecture. Calificación: 9/10. → [GameVisionTFM](https://github.com/AlejandroEscapa/GameVisionTFM)
+- **MatchVision** — Seguimiento de fútbol en vivo iOS nativo. Swift, SwiftUI, MVVM, Firebase. Calificación: 9/10. → [MatchVisionTFM](https://github.com/AlejandroEscapa/MatchVisionTFM)
+
+---
+
+**Open to work** · Frontend Angular / Mobile Android
+
+---
+
+📬 [LinkedIn](https://linkedin.com/in/alejandro-olivares-escapa) · ✉️ [alejandro.oliesc97@gmail.com]
