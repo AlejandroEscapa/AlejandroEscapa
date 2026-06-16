@@ -1,6 +1,6 @@
 Frontend Angular Developer | Android & iOS Native
 
-Angular · Kotlin · Swift · TypeScript · Supabase
+Angular · Kotlin · Swift · TypeScript · BBDD · API Rest · AI-Assisted
 
 ---
 
