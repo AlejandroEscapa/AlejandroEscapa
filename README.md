@@ -16,5 +16,4 @@ Angular · Kotlin · Swift · TypeScript · Java · BBDD · API Rest · AI-Assis
 
 ---
 
-📬 [LinkedIn](https://linkedin.com/in/alejandro-olivares-escapa)
-✉️ [alejandro.oliesc97@gmail.com]
+📬 [LinkedIn](https://linkedin.com/in/alejandro-olivares-escapa) - ✉️ alejandro.oliesc97@gmail.com
