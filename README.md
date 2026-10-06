@@ -1,4 +1,4 @@
-Frontend Angular Developer | Android & iOS Native
+Fullstack Developer | Android & iOS Native
 
 Angular · Kotlin · Swift · TypeScript · Java · BBDD · API Rest · AI-Assisted
 
